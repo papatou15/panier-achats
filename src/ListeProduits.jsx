@@ -1,4 +1,4 @@
-import './ListeProduits.css';
+import './ListeProduits.scss';
 import Produit from './Produit';
 import lesProduits from './data/produits.json'
 
